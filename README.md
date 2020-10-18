@@ -1,2 +1,2 @@
 # color-code-game
-its a project on the udemy code bootcamp
+built a color code game that asks you to guess the color from the rgb code 
